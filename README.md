@@ -7,7 +7,7 @@
    <a href="https://medium.com/@NaimulIslamSiam"><img height="32" src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/icons/32/medium_round.png"></a>
 </p>
 
-## Hello from Siam 👋
+## Siam Says Hi 👋
 
 Currently pursuing my bachelor's degree 🎓 in Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
 
