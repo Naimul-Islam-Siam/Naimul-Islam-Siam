@@ -1,9 +1,9 @@
-# ![header](./images/Naimul%20Islam.png)
+# ![header](https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/Naimul%20Islam.png)
 <br>
 <p align="center">
-   <a href="https://twitter.com/NaimulIslamSiam"><img height="32" src="/images/icons/32/twitter_round.png"></a>&emsp;&emsp;&emsp;
-   <a href="https://www.linkedin.com/in/naimulislamsiam/"><img height="32" src="/images/icons/32/linkedin.png"></a>&emsp;&emsp;&emsp;
-   <a href="https://medium.com/@NaimulIslamSiam"><img height="32" src="/images/icons/32/medium_round.png"></a>
+   <a href="https://twitter.com/NaimulIslamSiam"><img height="32" src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/icons/32/twitter_round.png"></a>&emsp;&emsp;&emsp;
+   <a href="https://www.linkedin.com/in/naimulislamsiam/"><img height="32" src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/icons/32/linkedin.png"></a>&emsp;&emsp;&emsp;
+   <a href="https://medium.com/@NaimulIslamSiam"><img height="32" src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/icons/32/medium_round.png"></a>
 </p>
 
 <br>
