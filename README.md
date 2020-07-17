@@ -21,7 +21,7 @@ I like to build stuffs. Fascinated with the world of web. Everything from good d
   <a href="https://siamwrites.netlify.app/deno-1.0-is-coming/"><img width="400" align='left' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/blogpost-screen-2.png"></a>
 </p>
 
-### My Digital Garden 🌱
+### • My Digital Garden 🌱
 
 I write blog posts, most of which you will find on my personal website [SiamWrites](https://siamwrites.netlify.app/) and [Medium](https://medium.com/@NaimulIslamSiam).
 
@@ -37,10 +37,19 @@ I write about things I am familiar with and interested in and things that I am l
    <img height="250" align='right' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/coding.png">
 </p>
 
-### Skills & Interests 👨‍💻
+### • Skills & Interests 👨‍💻
 
-- **🔭 I’m currently working on:** Nodejs & Graphql
+- **🔭 I’m currently working on:** Nodejs & GraphQL
+- **🏁 Recently Finished:** A Tour Booking Application
+- **💻 Worked With:** HTML, CSS, SCSS, JavaScript, React, Gatsby, GraphQL, Nodejs, Express, MongoDB, Mongoose, Pug, PHP, MySQL
 - **💬 Ask me about:** JavaScript, CSS, React, Nodejs
+- **💝 Interested In:**
+
+  - Full Stack Development
+  - Web Browser Architecture & Internals
+  - System Design & Architecture
+  - Cyber Security
+
 - **📫 How to reach me:** [Twitter](https://twitter.com/NaimulIslamSiam) | [LinkedIn](https://www.linkedin.com/in/naimulislamsiam/) | [Medium](https://medium.com/@NaimulIslamSiam)
 - **✏ Blog:** [SiamWrites](https://siamwrites.netlify.app/)
 
