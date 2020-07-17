@@ -36,11 +36,11 @@ I write about things I am familiar with and interested in and things that I am l
 
 <br>
 
-### Skills & Interests 👨‍💻
-
 <p>
    <img height="250" align='right' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/coding.png">
 </p>
+
+### Skills & Interests 👨‍💻
 
 - 🔭 I’m currently working on: Nodejs & Graphql
 - 💬 Ask me about: JavaScript, CSS, React, Nodejs
