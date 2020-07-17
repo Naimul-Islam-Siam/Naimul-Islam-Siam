@@ -9,9 +9,9 @@
 
 ## Hello from Siam 👋
 
-🎓 Currently pursuing my bachelor's degree in Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
+Currently pursuing my bachelor's degree 🎓 in Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
 
-I like to build stuffs. Fascinated with the world of web. Everything from good designs to robust engineering, I find those magical. Currently trying to explore and learn as much as I can.
+I like to build stuffs. Fascinated with the world of web. Everything from good designs to robust engineering, I find those magical. Right now trying to explore and learn as much as I can.
 
 ---
 
