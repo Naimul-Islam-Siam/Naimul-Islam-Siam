@@ -16,8 +16,10 @@ I like to build stuffs. Fascinated with the world of web. Everything from good d
 
 ---
 
+<br>
+
 <p>
-  <a href="https://siamwrites.netlify.app/deno-1.0-is-coming/"><img width="400" align='right' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/blogpost-screen-2.png"></a>
+  <a href="https://siamwrites.netlify.app/deno-1.0-is-coming/"><img width="400" align='left' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/blogpost-screen-2.png"></a>
 </p>
 
 ### My Digital Garden 🌱
@@ -26,10 +28,18 @@ I write blog posts, most of which you will find on my personal website [SiamWrit
 
 I write about things I am familiar with and interested in and things that I am learning.  Most of them are about **Web Development** & **JavaScript**. 
 
+<br>
+<br>
+<br>
+
 ---
 
+<br>
+
+### Skills & Interests 👨‍💻
+
 <p>
-<img width="400" align='left' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/coding.png"></a>
+   <img height="250" align='right' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/coding.png">
 </p>
 
 - 🔭 I’m currently working on: Nodejs & Graphql
