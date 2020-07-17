@@ -9,9 +9,9 @@
 
 ## Hello from Siam 👋
 
-Currently completing my undergrad in Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
+🎓 Currently pursuing my bachelor's degree in Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
 
-I like to build stuffs. Fascinated with the world of web. Everything from good designs to robust engineering seem magical to me. Currently exploring and learning as much as I can.
+I like to build stuffs. Fascinated with the world of web. Everything from good designs to robust engineering, I find those magical. Currently trying to explore and learn as much as I can.
 
 ---
 
@@ -21,11 +21,11 @@ I like to build stuffs. Fascinated with the world of web. Everything from good d
   <a href="https://siamwrites.netlify.app/deno-1.0-is-coming/"><img width="400" align='left' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/blogpost-screen-2.png"></a>
 </p>
 
-### • My Digital Garden 🌱
+### • My Digital Notebook 📝
 
 I write blog posts, most of which you will find on my personal website [SiamWrites](https://siamwrites.netlify.app/) and [Medium](https://medium.com/@NaimulIslamSiam).
 
-I write about things I am familiar with and interested in and things that I am learning. Most of them are about **Web Development** & **JavaScript**.
+I write about things I am familiar with and interested in and things that I am learning. Most of them are about **Web Development & Trends** and **JavaScript**.
 
 <br>
 
