@@ -14,6 +14,24 @@ Currently completing my undergrad in Computer Science & Engineering at Rajshahi 
 
 I like to build stuffs. Fascinated with the world of web. Everything from good designs to robust engineering seem magical to me. Currently exploring and learning as much as I can.
 
+---
+
+<p>
+  <a href="https://siamwrites.netlify.app/deno-1.0-is-coming/"><img width="400" align='right' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/blogpost-screen-2.png"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write blog posts, most of which you will find on my personal website [SiamWrites](https://siamwrites.netlify.app/) and [Medium](https://medium.com/@NaimulIslamSiam).
+
+I write about things I am familiar with and interested in and things that I am learning.  Most of them are about **Web Development** & **JavaScript**. 
+
+---
+
+<p>
+<img width="400" align='left' src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/coding.png"></a>
+</p>
+
 - 🔭 I’m currently working on: Nodejs & Graphql
 - 💬 Ask me about: JavaScript, CSS, React, Nodejs
 - 📫 How to reach me: [Twitter](https://twitter.com/NaimulIslamSiam) | [LinkedIn](https://www.linkedin.com/in/naimulislamsiam/) | [Medium](https://medium.com/@NaimulIslamSiam) 
