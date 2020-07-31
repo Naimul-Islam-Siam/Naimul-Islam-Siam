@@ -53,3 +53,5 @@ I write about things I am familiar with and interested in and things that I am l
 - **📫 How to reach me:** [Twitter](https://twitter.com/NaimulIslamSiam) | [LinkedIn](https://www.linkedin.com/in/naimulislamsiam/) | [Medium](https://medium.com/@NaimulIslamSiam)
 - **✏ Blog:** [SiamWrites](https://siamwrites.netlify.app/)
 
+
+![](https://komarev.com/ghpvc/?username=Naimul-Islam-Siam&color=brightgreen&style=plastic)
