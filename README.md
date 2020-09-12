@@ -9,6 +9,10 @@
 
 ## Siam Says Hi 👋
 
+<p>
+   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Naimul-Islam-Siam&layout=compact&title_color=000&langs_count=10&count_private=true" />
+</p>
+
 - **🎓 Currently Studying:** Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
 - **🔭 I’m currently working on:** Nodejs & GraphQL
 - **🏁 Recently Finished:** A Tour Booking Application
