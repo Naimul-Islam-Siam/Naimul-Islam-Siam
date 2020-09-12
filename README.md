@@ -39,3 +39,5 @@ I write blog posts, most of which you will find on my personal website [SiamWrit
 I write about things I am familiar with and interested in and things that I am learning. Most of them are about **Web Development & Trends** and **JavaScript**.
 
 <br>
+
+---
