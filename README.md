@@ -7,7 +7,7 @@
    <a href="https://medium.com/@NaimulIslamSiam"><img height="28" src="https://github.com/Naimul-Islam-Siam/Naimul-Islam-Siam/blob/master/images/icons/32/medium_round.png"></a>
 </p>
 
-## Siam Says Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+## Siam Says Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Naimul-Islam-Siam&layout=compact&title_color=000&langs_count=10&count_private=true" />
