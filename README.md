@@ -10,7 +10,7 @@
 ## Siam Says Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/api/top-langs/?username=Naimul-Islam-Siam&layout=compact&title_color=000&langs_count=10&count_private=true" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimul-Islam-Siam&layout=compact&title_color=000&langs_count=10&count_private=true" />
 </p>
 
 - **🎓 Currently Studying:** Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
