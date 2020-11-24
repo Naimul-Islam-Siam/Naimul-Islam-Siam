@@ -16,7 +16,7 @@
 - **🎓 Currently Studying:** Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
 - **🔭 I’m currently working on:** Nodejs & GraphQL
 - **🏁 Recently Finished:** A Tour Booking Application
-- **💻 Worked With:** HTML, CSS, SCSS, JavaScript, React, Gatsby, GraphQL, Nodejs, Express, MongoDB, Mongoose, Pug, PHP, MySQL
+- **💻 Worked With:** HTML, CSS, SCSS, JavaScript, React, Redux, Gatsby, GraphQL, Nodejs, Express, MongoDB, Mongoose, Pug, PHP, MySQL
 - **💬 Ask me about:** JavaScript, CSS, React, Nodejs
 - **💝 Interested In:**
 
