@@ -16,16 +16,15 @@
 -->
 
 - **🎓 Currently Studying:** Computer Science & Engineering at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/).
-- **🔭 I’m currently working on:** scikit-learn
-- **🏁 Recently Finished:** A Tour Booking Application
-- **💻 Worked With:** HTML, CSS, SCSS, JavaScript, React, Redux, Gatsby, GraphQL, Nodejs, Express, MongoDB, Mongoose, Pug, PHP, MySQL
+- **🔭 I’m currently working on:** Online browser based code editor
+- **🏁 Recently Finished:** A deep learning multi-class image classifier
+- **💻 Worked With:** HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Gatsby, GraphQL, Nodejs, Express, MongoDB, Mongoose, Pug, PHP, MySQL
 - **💬 Ask me about:** JavaScript, CSS, React, Nodejs
 - **💝 Interested In:**
 
   - Full Stack Development
   - Web Browser Architecture & Internals
   - System Design & Architecture
-  - Cyber Security
   
 - **📫 How to reach me:** [Twitter](https://twitter.com/NaimulIslamSiam) | [LinkedIn](https://www.linkedin.com/in/naimulislamsiam/) | [Medium](https://medium.com/@NaimulIslamSiam)
 - **✏ Blog:** [SiamWrites](https://siamwrites.netlify.app/)
